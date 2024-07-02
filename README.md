@@ -71,3 +71,9 @@ I am Pietro Bontempi. I am 20 years old, I have a degree in Systems Analysis and
 
 ![Cobrança, Preços e Suporte na AWS - DIO](https://img.shields.io/badge/Cobrança,_Preços_e_Suporte_na_AWS-FFA500?style=for-the-badge&logo=amazon&logoColor=white)
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pietro-bontempi-dev/pietro-bontempi-dev/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pietro-bontempi-dev/pietro-bontempi-dev/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pietro-bontempi-dev/pietro-bontempi-dev/output/github-contribution-grid-snake.svg">
+</picture>
+
