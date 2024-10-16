@@ -1,5 +1,5 @@
 # Pietro Bontempi
-#### Fullstack Developer | HTML | CSS | Javascript | PHP | Angular | Typescript | SQL
+#### Fullstack Developer | Data Engineer | HTML | CSS | Javascript | Java | Angular | Python | SQL
 
 <i>Santo André, SP - Brasil</i>
 
