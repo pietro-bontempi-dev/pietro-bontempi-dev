@@ -4,13 +4,13 @@
 <i>Santo André, SP - Brasil</i>
 
 ### Entre em contato comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-FF0000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/pietro_bontempi14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pietro-bontempi-67ba571b8/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pietro-bontempi-dev)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511930962004)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pietroo_bontempi/?next=%2F)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pietro.bontempi14@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pietro-bontempi-dev.github.io/Curriculo/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-FF0000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/pietro_bontempi14)
 
 ## Resumo Pessoal
 Eu sou o Pietro Bontempi. Tenho 20 anos, sou formado em Análise e Desenvolvimento de Sistemas na Faculdade Senai Armando de Arruda Pereira e estou no 1º semestre do curso superior em Engenharia da Computação pela Fundação de Santo André. Sou técnico em Mídias Digitais e atualmente trabalho na Secretária Municipal de Inovação e Técnologia(SMIT) da cidade de São Paulo, como Estagiário.
