@@ -1,5 +1,5 @@
 # Pietro Bontempi
-#### Fullstack Developer | Data Engineer | HTML | CSS | Javascript | Java | Angular | Python | SQL
+#### Data Engineer | Data Analytics | SQL | Python | AWS | GCP | Microsoft Azure | Cybersecurity
 
 <i>Santo André, SP - Brasil</i>
 
