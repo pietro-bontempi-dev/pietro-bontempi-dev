@@ -11,7 +11,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pietroo_bontempi/?next=%2F)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pietro.bontempi14@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://pietro-bontempi-dev.github.io/Curriculo/)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-FF0000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/pietro_bontempi14)
 
 ---
 
