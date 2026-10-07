@@ -318,11 +318,11 @@ Conhecimentos e estudos em:
 
 # 📌 Meus Repositórios
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pietro-bontempi-dev&repo=twitter_clone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pietro-bontempi-dev/twitter_clone)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pietro-bontempi-dev&repo=twitter_clone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pietro-bontempi-dev/automatizacao-releases)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pietro-bontempi-dev&repo=Projeto-Spotify&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pietro-bontempi-dev/Projeto-Spotify)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pietro-bontempi-dev&repo=Projeto-Spotify&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pietro-bontempi-dev/coincap-api-crypto-analysis)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pietro-bontempi-dev&repo=Curriculo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pietro-bontempi-dev/Curriculo)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pietro-bontempi-dev&repo=Curriculo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/pietro-bontempi-dev/ml-cyberthreat-analysis)
 
 ---
 
